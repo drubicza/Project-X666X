@@ -1,0 +1,3 @@
+z="
+";Oz='║♫ ♪';Fz='┃   ';Vz='Min-';bz='╰━━━';Zz='  ○ ';Ez='╮';Yz='ax';Qz='╚══╝';Uz='█';ez='| lo';Jz='┃███';Hz='● ══';Bz=' """';cz='╯';Iz='┃';dz='""" ';Xz=' -●M';Az='echo';Pz=' ♫ ♪';Rz='▄ █ ';Kz='████';Tz='█ ▄ ';Wz=' - -';Mz='║██║';Sz='▄ ▄ ';Dz='━━━━';Cz='╭━━━';az='   ┃';Lz='╔══╗';fz='lcat';Gz='    ';Nz='║(O)';
+eval "$Az$Bz$z$Cz$Dz$Ez$z$Fz$Gz$Hz$Gz$Iz$z$Jz$Kz$Iz$z$Jz$Kz$Iz$z$Jz$Kz$Iz$Lz$z$Jz$Kz$Iz$Mz$z$Jz$Kz$Iz$Nz$Oz$Pz$z$Jz$Kz$Iz$Qz$z$Jz$Kz$Iz$Rz$Rz$Sz$Tz$Tz$Uz$z$Jz$Kz$Iz$Vz$Wz$Wz$Wz$Wz$Wz$Xz$Yz$z$Fz$Gz$Zz$Gz$az$z$bz$Dz$cz$z$dz$ez$fz"

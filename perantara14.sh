@@ -1,0 +1,3 @@
+cd Tools
+cd InstallMetasploit
+sh vdoajneieibdoabekdkoxba9ehdnx.sh
