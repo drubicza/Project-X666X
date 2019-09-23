@@ -1,3 +1,0 @@
-cd Tools
-cd SpamSmsV2
-bash dviabbsidhdsoehbdidhajowhdbdjsjsbs.sh

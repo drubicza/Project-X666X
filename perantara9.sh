@@ -1,3 +1,0 @@
-cd Tools
-cd Tombol-Termux
-python2 dhisiwbwodidbdoajbsndidjxkshdiajbejd.py

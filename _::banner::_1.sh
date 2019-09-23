@@ -1,3 +1,0 @@
-z="
-";Zz='┓▔┏▏';Uz='▕▕╋▏';Iz='╱╱╱╲';Tz='▂▕▔';bz='▔┏▏';Dz='▔▔▔▔';dz='| lo';Bz=' """';Yz='▕┓▔┗';Sz='┛▂┏▔';Lz='╲╲╭';Wz='▕┏▏▕';Kz='╱╱┛▂';Gz='▕▕╱╱';ez='lcat';az='▕┗▏┓';Jz='╲╭╭';Cz='╯▅╰╱';Fz='╯╯☼';Rz='┓▂▕▔';Ez='▔▔▔╲';Nz='▂▂▂╱';cz='""" ';Xz='╋▏▏';Vz='▕╋▏▏';Az='echo';Qz='▔▏▂┗';Mz='╱▂▂▂';Pz='▏╲╲';Hz='╱╱╱╱';Oz='╱┏▕╋';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$z$Gz$Hz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$z$cz$dz$ez"

