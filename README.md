@@ -20,9 +20,9 @@ $ git clone https://github.com/Fukuro-ExP/Project-X666X
 $ cd Project-X666X 
 $ ls
 $ python2 X666X.py 
-
+```
 :_:_:_:_:_:_:_:_:_:_:_:_:
-You will be directed to enter the login and license data. 
+You Will Be Directed To Enter The Login And License Data. 
 Good Luck :) 
 
 
