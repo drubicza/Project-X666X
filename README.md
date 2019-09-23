@@ -8,7 +8,7 @@ There Are 30 Tools In 1 Script
 
 Usage : 
 ------
-
+```
 $ pkg update && pkg upgrade 
 $ pkg install python2 
 $ pkg install php
@@ -20,9 +20,19 @@ $ git clone https://github.com/Fukuro-ExP/Project-X666X
 $ cd Project-X666X 
 $ ls
 $ python2 X666X.py 
-```
+
 :_:_:_:_:_:_:_:_:_:_:_:_:
 You Will Be Directed To Enter The Login And License Data. 
 Good Luck :) 
+
+Support :
+--------
+```
+Youtube : Black Coders Anonymous 
+
+```
+Blog :
+blackcodersanonymouss.blogspot.com 
+
 
 
