@@ -23,16 +23,18 @@ $ python2 X666X.py
 
 :_:_:_:_:_:_:_:_:_:_:_:_:
 You Will Be Directed To Enter The Login And License Data. 
-Good Luck :) 
-
-Support :
---------
+Good Luck :)
 ```
+
+
+#MySocialMedia
+----------------
+````
 Youtube : Black Coders Anonymous 
 
 ```
 Blog :
 blackcodersanonymouss.blogspot.com 
-
+```
 
 
